@@ -1,0 +1,17 @@
+{
+  "name": "python",
+  "version": "1.0.0",
+  "description": "",
+  "main": "123.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jenkins": "^0.23.3",
+    "jenkins": "^1.0.2",
+    "jenkins-api": "^0.3.1",
+    "xlsx": "^0.18.5"
+  }
+}
